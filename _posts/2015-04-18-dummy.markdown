@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "First Post"
+date:   2015-04-18 08:43:59
+author: Ben Centra
+categories: 人文
+---
+
+This is just a dummy post. Lorem ipsum and all the rest.
+
+梁朝伟的表演，是浓缩了香港演员的特质、充满港式人文气质的，他演技最大的标签是细腻而又饱满。
+而这点是香港演员最大的特征，除了黄秋生、周星驰等另类人物，香港演员们一度都在追求这个特点，抽象的讲，就是《喜剧之王》中的“由内而外、由外而内”。
